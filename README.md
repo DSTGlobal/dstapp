@@ -72,7 +72,6 @@
 
 *   [Руководство по контрибуции](CONTRIBUTING.md)
 *   [Сообщить об ошибке](https://github.com/DSTGlobal/DSTApp/issues)
-*   [Обсудить идею](https://github.com/DSTGlobal/DSTApp/discussions)
 
 ## 📜 Лицензия
 
